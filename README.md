@@ -2,7 +2,6 @@
  신조 : "할수있다 하면된다" <br>
  
 <h2> 현재 공부<h2> <br>
- <hr>
 
 😆![](https://img.shields.io/badge/HTML5-CSS3-blue)😆 
 😆![](https://img.shields.io/badge/web-javascript-orange)😆
