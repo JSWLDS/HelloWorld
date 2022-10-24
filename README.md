@@ -8,6 +8,6 @@
 😆![](https://img.shields.io/badge/web-javascript-orange)😆
 😆![](https://img.shields.io/badge/programming-c-green)😆
 😆![](https://img.shields.io/badge/programming-java-green)😆
-😆![](https://img.shields.io/badge/database-SQL-pink)😆<br>
+😆![](https://img.shields.io/badge/database-sql-pink)😆<br>
  
   
