@@ -1,20 +1,5 @@
 <h1>정서원<h1>
 <hr>
-😃
-  😃
-    😃 
-      😃
-        😃
-          😃
-            😃
-              😃
-                😃
-                  😃
-                    😃
-                      😃
-                        😃
-                          😃
-                            😃
-                              😃  
+현재 공부
   
-![](http://img.shelds.io./badges/style-square-red?style=flat-squre<br>
+![](https://img.shields.io/badge/HTML5-CSS3-blue)<br>
