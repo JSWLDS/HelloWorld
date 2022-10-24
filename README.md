@@ -1,5 +1,4 @@
-<h1>정서원<h1
-<hr>
+<h1>정서원<h1> <br>
 <h2> 현재 공부<h2>
 <br>  
 😆![](https://img.shields.io/badge/HTML5-CSS3-blue)😆 
