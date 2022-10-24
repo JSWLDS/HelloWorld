@@ -2,7 +2,7 @@
 <hr>
   
 <h2> 현재 공부<h2>
-  
+<br>  
 
 😆![](https://img.shields.io/badge/HTML5-CSS3-blue)😆 
 😆![](https://img.shields.io/badge/web-javascript-orange)😆
