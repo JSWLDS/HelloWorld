@@ -1,7 +1,7 @@
 <h1>정서원<h1> <br>
  신조 : "할수있다 하면된다" <br>
  
-<h2> 현재 공부<h2> <br>
+<h2> 현재 공부<h2> 
 
 😆![](https://img.shields.io/badge/HTML5-CSS3-blue)😆 
 😆![](https://img.shields.io/badge/web-javascript-orange)😆
