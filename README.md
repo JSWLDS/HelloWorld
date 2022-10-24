@@ -5,9 +5,9 @@
   
 
 😆![](https://img.shields.io/badge/HTML5-CSS3-blue)😆 
-😆![](https://img.shields.io/badge/web-javascript-green)😆<br>
-😆![][(https://img.shields.io/badge/web-javascript-green](https://img.shields.io/badge/programming-c%20%EC%96%B8%EC%96%B4-green))😆<br>
-😆![]( https://img.shields.io/badge/programming-java-green)😆<br>
+😆![](https://img.shields.io/badge/web-javascript-green)😆
+😆![][(https://img.shields.io/badge/web-javascript-green](https://img.shields.io/badge/programming-c%20%EC%96%B8%EC%96%B4-green))😆
+😆![]( https://img.shields.io/badge/programming-java-green)😆
 😆![](https://img.shields.io/badge/programming-java-green](https://img.shields.io/badge/database-SQL-green)😆<br>
  
   
